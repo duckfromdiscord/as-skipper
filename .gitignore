@@ -1,0 +1,8 @@
+/Release
+/Debug
+*.obj
+*.pdb
+/.vs
+*.vcxproj.*
+*.vcxproj
+*.sln
